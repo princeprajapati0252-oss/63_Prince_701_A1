@@ -1,0 +1,11 @@
+{
+  "name": "node-practical",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "node server.js",
+    "test": "node test.js",
+    "hello": "node hello.js",
+    "app": "node app.js",
+    "zip": "node zip.js"
+  }
+}

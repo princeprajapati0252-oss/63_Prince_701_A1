@@ -1,0 +1,8 @@
+{
+  "name": "simplemathpack",
+  "version": "1.0.0",
+  "description": "Simple math utility package",
+  "main": "index.js",
+  "author": "Prince Prajapati",
+  "license": "MIT"
+}
